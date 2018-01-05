@@ -6,7 +6,6 @@ view through the AppD interface.
 Get Setup
 =========
 
-- Clone the repo
 - Open bash/zsh (assuming you are running this on *nix. Let me know otherwise)
 - Run the following commands
 
